@@ -17,7 +17,7 @@
 
 # Textra
 
-Welcome to the documentation repository for Textra tool. We combine OCR and NLP to extract useful information from images With height accuracy and speed.
+Welcome to the documentation repository for Textra tool. We combine OCR and NLP to extract useful information from french invoices With height accuracy and speed.
 
 ## Inference Pipeline
 
