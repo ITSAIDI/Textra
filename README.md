@@ -12,6 +12,9 @@ Welcome to the documentation repository for Textra tool. We combine OCR and NLP 
     <img src="./assets/Textra_Pipeline.png" alt="Textra Banner"/>
 </p>
 
+## Demo
+
+
 ## Getting Started with Documentation Development
 
 If you're interested in contributing to the documentation, follow these steps to set up your development environment:
