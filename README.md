@@ -6,6 +6,7 @@
 
 Welcome to the documentation repository for Textra tool. We combine OCR and LLM to extract text from images.
 with height accuracy and speed.
+
 ## Getting Started with Documentation Development
 
 If you're interested in contributing to the documentation, follow these steps to set up your development environment:
