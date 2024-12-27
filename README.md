@@ -2,10 +2,15 @@
     <img src="./assets/Textra_Logo.png" alt="Textra Banner" width="400" height="400" />
 </p>
 
-# Textra Documentation
+# Textra
 
-Welcome to the documentation repository for Textra tool. We combine OCR and LLM to extract text from images.
-with height accuracy and speed.
+Welcome to the documentation repository for Textra tool. We combine OCR and NLP to extract useful information from images With height accuracy and speed.
+
+## Inference Pipeline
+
+<p align="center">
+    <img src="./assets/Textra_Pipeline.png" alt="Textra Banner"/>
+</p>
 
 ## Getting Started with Documentation Development
 
@@ -20,7 +25,7 @@ Make sure you have Python installed on your system.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MasrourTawfik/Textra.git
+   git clone https://github.com/ITSAIDI/Textra.git
    ```
 
 2. Navigate to the project directory:
